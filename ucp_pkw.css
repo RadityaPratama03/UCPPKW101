@@ -6,6 +6,52 @@
     background-repeat: no-repeat;
 }
 
+#img_home{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 90px;
+}
+#img_movil-app{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 90px;
+}
+#img_plate1{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 90px;
+}
+#img_plate2{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 90px;
+}#img_plate3{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 90px;
+}
+#img_dish{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 90px;
+}#img_pizza{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 90px;
+}#img_truck{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 90px;
+}
+
 .harga {
     font-weight: bold;
 }
