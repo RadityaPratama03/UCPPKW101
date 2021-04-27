@@ -1,5 +1,5 @@
 .hero-banner {
-    background-image: image('home.png');
+    background-image: src('home.png');
     background-size: cover;
     height: 550px;
     background-position: center;
